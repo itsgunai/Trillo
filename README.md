@@ -1,2 +1,2 @@
-# Trillo
+# Trillo Project
 Project with SASS
